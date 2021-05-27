@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin demonstrates a problem with <code>View</code> not being a <code>DescriptorByNameOwner</code>.
+</div>
